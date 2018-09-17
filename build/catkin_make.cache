@@ -1,0 +1,2 @@
+generosity
+-DCATKIN_DEVEL_PREFIX=/home/osboxes/dev/RMCChallenge_ws/devel -DCMAKE_INSTALL_PREFIX=/home/osboxes/dev/RMCChallenge_ws/install -G Unix Makefiles

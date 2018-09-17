@@ -1,0 +1,8 @@
+prefix=/home/osboxes/dev/RMCChallenge_ws/devel
+
+Name: generosity
+Description: Description of generosity
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/osboxes/dev/RMCChallenge_ws/devel/lib 
+Requires: 
